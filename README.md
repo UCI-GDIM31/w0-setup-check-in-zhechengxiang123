@@ -7,16 +7,18 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+My name is Zhecheng Xiang, you can also call me Johnson, my pronouns is he/him. I like to play fps game with friends, and the games that I played most are CounterStrike, Apex Legend and Rainbow Six Siege. I had not really had a chance to experience with the game development but I am looking forward to give it a try. If I had a chance to build a game, I would like to build an fps game since I had played a lot for this kind of game.
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
-    - [ ] Other (please specify)
+    - [x] Other (please specify) Quantitative Economic
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. What are you hoping to get out of this class? I want to get a chance to experience how to build a game and understand how things were made in the game, also, I want to practice teamworking skills as some project will need to work as a team.
+4. What, if anything, are you nervous about for this class? I had not really had experience with programing, so I am afraid that I will get lost.
 
 ## Prior Experience
 
@@ -24,11 +26,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. Programming (any languages/ frameworks) I had experience with Stata and Rstudio
 
-2. Game development (any engine)
+2. Game development (any engine) N/A
 
-3. Unity
+3. Unity N/A
 
 ### Programming & Game Development Concepts
 
@@ -39,16 +41,16 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
-
-2. Scope management
-
+1. Game design document 
+N/A
+2. Scope management 
+N/A
 3. Iteration
-
+N/A
 4. Object-Oriented programming
-
+N/A
 5. Model-View-Controller architecture
-
+N/A
 ## Complete!
 
 You've completed your first homework assignment! Commit this file and push it to GitHub. You should be able to see that it's been submitted properly on the Github Classroom page or on your assignment repository.
